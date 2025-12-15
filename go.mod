@@ -1,4 +1,4 @@
-module github.com/suyuan32/simple-admin-common
+module github.com/nibabashilkk/go-common
 
 go 1.25.0
 
